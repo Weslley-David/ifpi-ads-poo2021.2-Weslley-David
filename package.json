@@ -1,0 +1,19 @@
+{
+  "name": "ifpi-ads-poo2021.2-weslley-david",
+  "version": "1.0.0",
+  "description": "Repositório para POO - Programação Orientada a Objetos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weslley-David/ifpi-ads-poo2021.2-Weslley-David.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weslley-David/ifpi-ads-poo2021.2-Weslley-David/issues"
+  },
+  "homepage": "https://github.com/Weslley-David/ifpi-ads-poo2021.2-Weslley-David#readme"
+}
