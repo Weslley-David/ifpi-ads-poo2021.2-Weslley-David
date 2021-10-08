@@ -96,7 +96,7 @@ var Circulo = /** @class */ (function () {
 }());
 var circulo;
 circulo = new Circulo();
-circulo.raio = 10;
+circulo.raio = 3;
 console.log(circulo.calcula_area_circulo());
 console.log(circulo.calcula_perimetro_circulo());
 /*
