@@ -11,7 +11,7 @@ console.log(soma);
 // Tal código lista os valores aramazenados do array e um valor indefinido.
 console.log('q2-');
 let a : number[] = [1,2,3,4,5];
-for (let i : number = 0; i <= a.length - 1; i++){
+for (let i : number = 0; i <= a.length; i++){
     console.log(a[i]);
 }
 

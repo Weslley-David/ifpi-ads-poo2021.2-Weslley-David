@@ -10,7 +10,7 @@ console.log(soma);
 // Tal código lista os valores aramazenados do array e um valor indefinido.
 console.log('q2-');
 var a = [1, 2, 3, 4, 5];
-for (var i = 0; i <= a.length - 1; i++) {
+for (var i = 0; i <= a.length; i++) {
     console.log(a[i]);
 }
 //3. Declare um array com 10 números e exiba-os em ordem crescente e em ordem decrescente.
